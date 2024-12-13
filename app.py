@@ -24,7 +24,7 @@ st.markdown("""
     
     /* Estilo para headers */
     .luxury-header {
-        color: #D4AF37;
+        color: #E8E8E8;
         font-family: 'Playfair Display', serif;
         font-size: 3rem;
         font-weight: 700;
@@ -39,7 +39,7 @@ st.markdown("""
         background-color: #2A2A2A;
         border-radius: 10px;
         padding: 1.5rem;
-        border: 1px solid #D4AF37;
+        border: 1px solid #E8E8E8;
         margin: 1rem 0;
         transition: transform 0.3s ease;
     }
@@ -54,7 +54,7 @@ st.markdown("""
         background-color: #2A2A2A;
         padding: 1rem;
         border-radius: 8px;
-        border: 1px solid #D4AF37;
+        border: 1px solid #E8E8E8;
         text-align: center;
         transition: transform 0.3s ease;
     }
